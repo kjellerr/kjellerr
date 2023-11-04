@@ -1,8 +1,6 @@
 # ¡Hola! Soy Efzeker, ak: @kjellerr
 ## Civil Engineer
 
-### pentesting
-
 
 .
 
