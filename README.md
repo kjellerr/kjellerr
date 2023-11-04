@@ -6,7 +6,7 @@
 .
 
 
-Hola a todos! Mi nombre es Alejandro Felipe Guillermo, alias @efzeker ak @kjelerr, soy Ingeniero Civil con desarrollo profesional enfocado en la Ingeniería en Control de Gestión. 
+Hola a todos! Mi nombre es Alejandro Felipe Guillermo, alias @efzeker ak @kjellerr, soy Ingeniero Civil con desarrollo profesional enfocado en la Ingeniería en Control de Gestión. 
 
 .
 
