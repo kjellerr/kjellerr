@@ -50,6 +50,7 @@ Este, les puede hacer mucho índex sobre el manejo de script para el desarrollo 
 <tr>
 <td>
 <a href="https://youtu.be/ay1lwfjIGgM?si=H2Rd1cnMQHrbhtyr">
-<img src="https://ibb.co/DQ81Lpm#google_vignette">
+<img src="[https://ibb.co/DQ81Lpm#google_vignette.](https://www.bing.com/images/create/tren-mercury-de-nueva-york-en-1936-a-color-y-sin-h/65468fdc262c453fac000ca359483070?id=z8q58diiKhebfihj1cogQA%3d%3d&view=detailv2&idpp=genimg&idpclose=1&FORM=SYDBIC)https://www.bing.com/images/create/tren-mercury-de-nueva-york-en-1936-a-color-y-sin-h/65468fdc262c453fac000ca359483070?id=z8q58diiKhebfihj1cogQA%3d%3d&view=detailv2&idpp=genimg&idpclose=1&FORM=SYDBIC">
 </a>
 </td>
+<td>
