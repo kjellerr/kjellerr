@@ -46,7 +46,7 @@ Este, les puede hacer mucho índex sobre el manejo de script para el desarrollo 
 
 
 
-
+</a>
 <tr>
 <td>
 <a href="https://youtu.be/ay1lwfjIGgM?si=H2Rd1cnMQHrbhtyr">
