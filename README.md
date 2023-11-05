@@ -1,8 +1,12 @@
 # ¡Hola! Soy Efzeker, ak: @kjellerr
 ## Civil Engineer
+<<<<<<< HEAD
 
 ### pentesting
+=======
+>>>>>>> e52424482abe7849b8cc553ad35be123eedfe3b9
 
+### pentesting
 
 
 .
